@@ -17,7 +17,7 @@ Policy files for strong encryption can be downloaded via Oracle:
 
 ### 3. Execute the start script located in the main folder of the Noracle Bundle
 
-### 4. Browse to [http://localhost:9082/fileservice/v2.2.0/files/noracle/index.html](http://localhost:9082/fileservice/v2.2.0/files/noracle/index.html)
+### 4. [This](http://localhost:9082/fileservice/v2.2.0/files/noracle/index.html) is your locally deployed frontend now
 And you should be able to use your own noracle instance
 
 ## Evaluation
