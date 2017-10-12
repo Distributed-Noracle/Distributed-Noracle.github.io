@@ -20,3 +20,6 @@ Policy files for strong encryption can be downloaded via Oracle:
 ### 4. Browse to [http://localhost:9082/fileservice/v2.2.0/files/noracle/index.html](http://localhost:9082/fileservice/v2.2.0/files/noracle/index.html)
 And you should be able to use your own noracle instance
 
+## Evaluation
+If you could find the time to fill out our questionnaire, that would be awesome!
+You can find it [here](https://goo.gl/forms/jCg3XDfo0v8cmflf1).
