@@ -1,7 +1,7 @@
 # Distributed Noracle
 
 ## Participate in our Network of Knowledge Sharing Nodes
-The easiest way to access the Distributed Noracle is to browse to [here](http://192.168.10.84:9082/fileservice/v2.2.0/files/noracle/index.html) and use our preconfigured Noracle las2peer network, which is ready to use for you without the need to start your own instance.  
+The easiest way to access the Distributed Noracle is to browse to [here](http://dbis.rwth-aachen.de/noracle) and use our preconfigured Noracle las2peer network, which is ready to use for you without the need to start your own instance.  
 Please join either of our two prepared spaces:  
 [Future of TEL](todo)  
 [JTEL Summer School 2017](todo)  
