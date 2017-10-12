@@ -7,7 +7,7 @@ But if you really want to experience the whole capabilities of our distributed N
 
 ## Start Your Own Noracle and Join the Network
 
-### 1. Download our Noracle Bundle at [TODO](TODO)
+### 1. Download our Noracle Bundle [here](https://github.com/Distributed-Noracle/Distributed-Noracle.github.io/raw/master/noracle%20peer.zip)
 
 ### 2. Install Java and the JCE
 Since the Noralce depends on las2peer, which uses strong encryption, this has to be enabled in your Java Runtime Environment (JRE).
