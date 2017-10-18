@@ -26,3 +26,6 @@ And you should be able to use your own noracle instance
 ## Evaluation
 If you could find the time to fill out our questionnaire, that would be awesome!
 You can find it [here](https://goo.gl/forms/jCg3XDfo0v8cmflf1).
+
+## Tell us what you miss!
+Please use the [Requirements Bazaar](https://requirements-bazaar.org/projects/365) to tell us your thoughts about how we could improve the distributed noracle and what you think is still missing. We are very grateful for all inspiration.
