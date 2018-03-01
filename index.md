@@ -20,7 +20,7 @@ If you are using a Java version prior to **Java 8u162**, you may have to [enable
 
 ### 3. Execute the start script located in the main folder of the Noracle Bundle
 
-### 4. [This](http://localhost:9082/fileservice/v2.2.0/files/noracle/index.html) is your locally deployed frontend now
+### 4. [This](http://localhost:9082/fileservice/v2.2.5/files/noracle/index.html) is your locally deployed frontend now
 And you should be able to use your own noracle instance.
 
 ## Evaluation
