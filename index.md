@@ -3,20 +3,15 @@
 
 
 ## Participate in our Network of Knowledge Sharing Nodes
-The easiest way to access the Distributed Noracle is to browse to [here](http://dbis.rwth-aachen.de/noracle/) and use our preconfigured Noracle las2peer network, which is ready to use for you without the need to start your own instance.  
-Please join either of our two prepared spaces:  
-[Future of TEL](http://dbis.rwth-aachen.de/noracle/spaces/9862612753?pw=93964910112367150702)  
-[JTEL Summer School 2017](http://dbis.rwth-aachen.de/noracle/spaces/9280381244?pw=28657162427162614438)  
-
-But if you really want to experience the whole capabilities of our distributed Noracle, please follow these instructions to
+The easiest way to access the Distributed Noracle is to browse to [here](http://dbis.rwth-aachen.de/noracle/) and use our preconfigured Noracle las2peer network, which is ready to use for you without the need to start your own instance.
 
 ## Start Your Own Noracle and Join the Network
 
 ### 1. Download our Noracle Bundle [here](https://github.com/Distributed-Noracle/Distributed-Noracle.github.io/raw/master/noracle%20peer.zip)
 
 ### 2. Install Java
-In order to run Distributed Noracle, you need to have [Java](https://java.com/de/download/) installed on your system.
-If you are using a Java version prior to **Java 8u162**, you may have to [enable strong encryption](https://github.com/rwth-acis/las2peer#java-cryptography-extension-jce-installation).
+In order to run Distributed Noracle, you need to have [Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) (preferably **Java 8u162** or above) installed on your system.
+If you are using a Java version prior to 8u162, you will have to [enable strong encryption](https://github.com/rwth-acis/las2peer#java-cryptography-extension-jce-installation) manually.
 
 ### 3. Execute the start script located in the main folder of the Noracle Bundle
 
