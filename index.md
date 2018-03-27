@@ -3,7 +3,8 @@
 
 
 ## Participate in our Network of Knowledge Sharing Nodes
-The easiest way to access the Distributed Noracle is to browse to [here](http://dbis.rwth-aachen.de/noracle/) and use our preconfigured Noracle las2peer network, which is ready to use for you without the need to start your own instance.
+The easiest way to access the Distributed Noracle is to browse to [here](http://dbis.rwth-aachen.de/noracle/) and use our preconfigured Noracle las2peer network, which is ready to use for you without the need to start your own instance.  
+**Quick start:** [**Join our discussion about Informal Learning Communties**](http://dbis.rwth-aachen.de/noracle/spaces/9115304694?pw=48456853353523231699)
 
 ## Start Your Own Noracle and Join the Network
 
